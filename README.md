@@ -1,2 +1,2 @@
-# Extinction-Rebelion
-lab exam
+# Extinction-Rebellion
+
